@@ -177,25 +177,27 @@ The stock receipt and cancellation flow has been manually checked during develop
 
 ## Screenshots
 
-Add screenshots of the actual running application to a `screenshots/` directory in the repository, then update the paths below.
 
 ### Dashboard
 
-![MediStock dashboard](screenshots/dashboard.png)
+!
+## Screenshots
 
-### Medicine Inventory
+### Dashboard
+![MediStock Dashboard](screenshots/dashboard.png)
 
-![Medicine inventory](screenshots/medicines.png)
+### Medicine Management
+![Medicine Management](screenshots/medicines.png)
+
+### Inventory
+![Inventory](screenshots/inventory.png)
 
 ### Supplier Management
-
-![Supplier management](screenshots/suppliers.png)
+![Supplier Management](screenshots/suppliers.png)
 
 ### Purchase Orders
+![Purchase Orders](screenshots/orders.png)
 
-![Purchase order management](screenshots/orders.png)
-
-If you do not have a screenshot for a section yet, capture it from the running application or remove that image entry until one is available.
 
 ## Local Configuration and Security
 
